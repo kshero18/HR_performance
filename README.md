@@ -1,3 +1,4 @@
+## HR Workforce Insights Dashboard — Monthly Reporting Pack
 *A workforce analytics and data governance mini-project*
 
 This project is a structured HR Monthly Reporting Pack built using Excel, showcasing workforce analytics, HR KPI reporting and data governance practices. It includes a dashboard summarising headcount, tenure and attrition across departments, along with supporting documentation such as a Data Issues Log, Data Dictionary, and KPI Definitions—mirroring real workforce reporting workflows in People & Culture teams.
